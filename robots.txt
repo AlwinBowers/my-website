@@ -1,0 +1,3 @@
+# Demo build - not for search engines
+User-agent: *
+Disallow: /
